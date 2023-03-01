@@ -19,5 +19,4 @@ char *leet(char *str)
 				str[index1] = index2 + '0';
 		}
 	}
-	return (str);
-}
+	return (str);}
